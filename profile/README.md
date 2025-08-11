@@ -1,34 +1,36 @@
-# Bem-vindo à [Nome da Sua Organização] 👋
+# Bem-vindo(a) à organização TRANSCORNEA 👋
 
-A [Nome da Sua Organização] é uma comunidade de [ex: desenvolvedores, designers, entusiastas] focada em [descrever o principal objetivo, ex: criar software open-source, resolver problemas da comunidade, etc.].
+A organização TRANSCORNEA é uma comunidade focada em solucionar os desafios no registro e gestão de custos do processamento de tecido corneano em Bancos de Tecido Ocular Humano (BTOH) através do desenvolvimento de um software. Nosso objetivo principal é otimizar recursos, aumentar a transparência e garantir a qualidade no processo de transplantes de córnea.
 
 ---
 
 ### 🚀 Comece por aqui!
 
-Se você é novo, dê uma olhada nestes links para começar:
+Este projeto é parte de um projeto maior de pesquisa e ensino, financiado pelo CNPq. O objetivo é a construção e validação de um software para registro e estimativa de custos do processamento de córneas doadas.
 
-* **[Guia de Contribuição](LINK_PARA_SEU_GUIDE)**: Saiba como você pode ajudar a melhorar nossos projetos.
-* **[Código de Conduta](LINK_PARA_SEU_COC)**: Respeitamos e valorizamos a diversidade. Este é o nosso acordo de convivência.
-* **[Projetos Ativos](LINK_PARA_UMA_PÁGINA_DE_PROJETOS_OU_LISTA)**: Veja no que estamos trabalhando no momento!
+Se você é novo, dê uma olhada nestes links para começar:
+*****
 
 ---
 
 ### 🔗 Links Úteis
-
-* **Website:** [https://www.seuwebsite.com](https://www.seuwebsite.com)
-* **Twitter:** [https://twitter.com/sua_org](https://twitter.com/sua_org)
-* **Blog:** [https://blog.seuwebsite.com](https://blog.seuwebsite.com)
-* **Slack/Discord:** [LINK_PARA_SEU_CANAL]
+* **Vídeo de Apresentação:** [https://youtu.be/a4Tml-z7Rmg](https://youtu.be/a4Tml-z7Rmg)
 
 ---
 
-### 🤝 Quer fazer parte?
+#### 💡 Funcionalidades do Software
 
-Estamos sempre buscando pessoas apaixonadas para se juntar a nós! Se você tem interesse em [ex: desenvolvimento, design, UX, escrita], venha conversar com a gente no nosso canal [Slack/Discord] ou abra uma `issue` em um dos nossos projetos.
+O software TRANSCORNEA oferecerá as seguintes funcionalidades principais:
 
----
+* Registro digital detalhado das etapas do processamento do tecido.
+* Cálculo automático e estimativa dos custos envolvidos.
+* Monitoramento da qualidade do tecido em cada fase.
+* Geração de relatórios sobre perdas, tempo de processamento e eficiência da captação.
+* Integração com bancos de dados hospitalares.
+* Interface intuitiva e multiplataforma (Windows®, Linux®, MacOS®).
+* Criptografia para garantir a segurança dos dados.
+* Exportação de dados para Microsoft Excel® e Adobe Acrobat Reader® (PDF).
 
 #### Contato
 
-Se tiver alguma dúvida, entre em contato com [Nome do Líder da Org] em [email@dominio.com].
+Se tiver alguma dúvida, entre em contato conosco em [transcorneanes@gmail.com].
