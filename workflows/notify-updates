@@ -1,0 +1,23 @@
+name: Padrão de Automação de Eventos
+
+on:
+  issues:
+    types: [opened, reopened]
+
+  pull_request:
+    types: [opened, reopened, synchronize]
+
+jobs:
+  run_on_events:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Informar tipo de evento
+        run: |
+          echo "O workflow foi acionado por um evento de ${{ github.event_name }}."
+          echo "A ação que disparou foi: ${{ github.event.action }}."
+          
+      - name: Exibir link para a Issue ou PR
+        if: github.event_name == 'issues' || github.event_name == 'pull_request'
+        run: |
+          echo "Título: ${{ github.event.issue.title || github.event.pull_request.title }}"
+          echo "Link: ${{ github.event.issue.html_url || github.event.pull_request.html_url }}"
