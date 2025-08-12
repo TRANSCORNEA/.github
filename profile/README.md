@@ -15,6 +15,7 @@ Se você é novo, dê uma olhada nestes links para começar:
 
 ### 🔗 Links Úteis
 * **Vídeo de Apresentação:** [https://youtu.be/a4Tml-z7Rmg](https://youtu.be/a4Tml-z7Rmg)
+* **Link do Figma:** [https://www.figma.com/files/team/1537202531724482710/project/433010312?fuid=896132104861227478]
 
 ---
 
