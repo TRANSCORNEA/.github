@@ -8,10 +8,8 @@ A organização TRANSCORNEA é uma comunidade focada em solucionar os desafios n
 
 Este projeto é parte de um projeto maior de pesquisa e ensino, financiado pelo CNPq. O objetivo é a construção e validação de um software para registro e estimativa de custos do processamento de córneas doadas.
 
-Se você é novo, dê uma olhada nestes links para começar:
-*****
+**Se você é novo, dê uma olhada nestes links para começar:**
 
----
 
 ### 🔗 Links Úteis
 * **Vídeo de Apresentação:** [https://youtu.be/a4Tml-z7Rmg](https://youtu.be/a4Tml-z7Rmg)
