@@ -25,12 +25,9 @@ O software TRANSCORNEA oferecerá as seguintes funcionalidades principais:
 
 * Registro digital detalhado das etapas do processamento do tecido.
 * Cálculo automático e estimativa dos custos envolvidos.
-* Monitoramento da qualidade do tecido em cada fase.
-* Geração de relatórios sobre perdas, tempo de processamento e eficiência da captação.
 * Integração com bancos de dados hospitalares.
-* Interface intuitiva e multiplataforma (Windows®, Linux®, MacOS®).
 * Criptografia para garantir a segurança dos dados.
-* Exportação de dados para Microsoft Excel® e Adobe Acrobat Reader® (PDF).
+
 
 #### Contato
 
